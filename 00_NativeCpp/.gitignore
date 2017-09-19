@@ -11,3 +11,8 @@
 /*.pidb
 /*.booproj
 
+# build
+/build/
+
+# Native
+

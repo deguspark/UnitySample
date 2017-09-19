@@ -1,0 +1,6 @@
+framework module Native {
+  umbrella header "Native.h"
+
+  export *
+  module * { export * }
+}
